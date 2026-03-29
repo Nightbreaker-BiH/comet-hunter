@@ -1,0 +1,16 @@
+{
+  "name": "comet-hunter",
+  "version": "1.5.0",
+  "description": "Professional comet tracking dashboard — bilingual BS/EN",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": ["comet", "astronomy", "JPL", "MPC", "COBS"],
+  "author": "Alan Catovic"
+}
